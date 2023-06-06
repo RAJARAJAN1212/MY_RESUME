@@ -135,7 +135,7 @@ a {
 .downloadBtn{
     display: block;
     text-decoration: underline;
-    font-size: 1.6rem;
+    font-size: 2rem;
     margin-top: 1rem;
 }
 .downloadbtn:hover {
